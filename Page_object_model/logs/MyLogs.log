@@ -1,0 +1,583 @@
+[INFO ] 2023-08-03 11:05:24.265 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-03 11:05:24.340 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-03 11:05:30.338 [main] Mainclass - Login successful
+[INFO ] 2023-08-03 11:05:33.463 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-03 11:05:36.573 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-03 11:05:39.669 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-03 11:05:42.759 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-03 11:05:45.892 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-03 11:05:45.972 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-03 11:05:49.117 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-03 11:05:52.221 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-03 11:05:55.310 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-03 11:05:58.402 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-03 11:06:01.484 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-03 11:06:04.567 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-03 11:06:07.668 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-03 11:06:10.812 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-03 11:06:13.892 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-03 11:06:16.974 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-03 11:06:20.079 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-03 11:06:23.171 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-03 11:06:26.311 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-03 11:06:32.506 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-03 11:06:38.652 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-03 11:06:44.826 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-03 11:06:50.975 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-03 11:06:53.639 [main] Mainclass - logout successful
+[INFO ] 2023-08-03 13:14:08.640 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-03 13:14:08.701 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-03 13:14:14.773 [main] Mainclass - Login successful
+[INFO ] 2023-08-03 13:14:17.891 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-03 13:14:20.973 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-03 13:14:24.101 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-03 13:14:27.238 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-03 13:14:30.300 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-03 13:14:30.394 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-03 13:14:33.501 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-03 13:14:36.663 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-03 13:14:39.741 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-03 13:14:42.814 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-03 13:14:45.887 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-03 13:14:48.976 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-03 13:14:52.068 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-03 13:14:55.159 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-03 13:14:58.279 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-03 13:15:01.354 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-03 13:15:04.438 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-03 13:15:07.521 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-03 13:15:10.645 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-03 13:15:16.777 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-03 13:15:23.040 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-03 13:15:29.192 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-03 13:15:35.389 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-03 13:15:37.697 [main] Mainclass - logout successful
+[INFO ] 2023-08-04 15:56:00.169 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-04 15:56:00.250 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-04 15:56:06.032 [main] Mainclass - Login successful
+[INFO ] 2023-08-04 15:56:09.157 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-04 15:56:12.278 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-04 15:56:15.386 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-04 15:56:18.464 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-04 15:56:21.534 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-04 15:56:21.611 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-04 15:56:24.743 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-04 15:56:27.834 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-04 15:56:30.926 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-04 15:56:34.008 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-04 15:56:37.080 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-04 15:56:40.158 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-04 15:56:43.269 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-04 15:56:46.334 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-04 15:56:49.412 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-04 15:56:52.495 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-04 15:56:55.565 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-04 15:56:58.638 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-04 15:57:01.817 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-04 15:57:07.938 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-04 15:57:14.137 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-04 15:57:20.303 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-04 15:57:26.474 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-04 15:57:30.161 [main] Mainclass - logout successful
+[INFO ] 2023-08-04 17:26:44.779 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-04 17:26:44.845 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-04 17:26:52.154 [main] Mainclass - Login successful
+[INFO ] 2023-08-04 17:26:55.244 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-04 17:26:58.333 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-04 17:27:01.412 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-04 17:27:04.506 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-04 17:27:07.582 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-04 17:27:07.649 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-04 17:27:10.776 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-04 17:27:13.887 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-04 17:27:16.974 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-04 17:27:20.052 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-04 17:27:23.126 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-04 17:27:26.209 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-04 17:27:29.299 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-04 17:27:32.374 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-04 17:27:35.455 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-04 17:27:38.522 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-04 17:27:41.586 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-04 17:27:44.656 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-04 17:27:47.804 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-04 17:27:53.936 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-04 17:28:00.096 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-04 17:28:06.233 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-04 17:28:12.408 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-04 17:28:15.298 [main] Mainclass - logout successful
+[INFO ] 2023-08-04 17:43:53.206 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-04 17:43:53.267 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-04 17:44:00.030 [main] Mainclass - Login successful
+[INFO ] 2023-08-04 17:44:03.124 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-04 17:44:06.258 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-04 17:44:09.345 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-04 17:44:12.434 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-04 17:44:15.526 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-04 17:44:15.628 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-04 17:44:18.800 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-07 19:36:06.751 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-07 19:36:06.884 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-07 19:36:13.634 [main] Mainclass - Login successful
+[INFO ] 2023-08-07 19:36:16.807 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-07 19:36:20.049 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-07 19:36:24.637 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-07 19:36:30.904 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-07 19:36:37.216 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-07 19:36:43.519 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-07 19:36:49.838 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-07 19:36:51.536 [main] Mainclass - logout successful
+[INFO ] 2023-08-11 13:13:45.856 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-11 13:13:45.935 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-11 13:13:52.920 [main] Mainclass - Login successful
+[INFO ] 2023-08-11 13:14:25.528 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-11 13:14:25.605 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-11 13:14:31.005 [main] Mainclass - Login successful
+[INFO ] 2023-08-11 13:14:34.098 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-11 13:14:37.210 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-11 13:14:40.329 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-11 13:14:43.478 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-11 13:14:49.633 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-11 13:14:55.784 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-11 13:15:01.952 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-11 13:15:08.145 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-11 13:15:10.400 [main] Mainclass - logout successful
+[INFO ] 2023-08-11 13:30:16.193 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-11 13:30:16.262 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-11 13:30:22.262 [main] Mainclass - Login successful
+[INFO ] 2023-08-11 13:30:25.348 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-11 13:30:28.468 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-11 13:30:31.583 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-11 13:30:34.719 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-11 13:30:40.868 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-11 13:30:47.048 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-11 13:30:53.176 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-11 13:30:59.372 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-11 13:31:01.557 [main] Mainclass - logout successful
+[INFO ] 2023-08-16 16:53:51.759 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-16 16:53:51.927 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-16 16:53:59.168 [main] Mainclass - Login successful
+[INFO ] 2023-08-16 16:54:02.456 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-16 16:54:05.740 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-16 16:54:08.926 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-16 16:54:12.185 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-16 16:54:18.423 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-16 16:54:24.685 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-16 16:54:30.998 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-16 16:54:37.316 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-16 16:54:39.024 [main] Mainclass - logout successful
+[INFO ] 2023-08-17 12:04:10.702 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-17 12:04:10.857 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-17 12:04:16.765 [main] Mainclass - Login successful
+[INFO ] 2023-08-17 12:04:19.950 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-17 12:04:23.163 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-17 12:04:26.390 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-17 12:04:29.641 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-17 12:04:35.907 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-17 12:04:42.181 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-17 12:04:48.440 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-17 12:04:54.778 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-17 12:04:56.884 [main] Mainclass - logout successful
+[INFO ] 2023-08-17 13:09:15.535 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-17 13:09:15.663 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-17 13:09:22.268 [main] Mainclass - Login successful
+[INFO ] 2023-08-17 13:09:25.434 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-17 13:09:28.727 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-17 13:09:31.937 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-17 13:09:35.185 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-17 13:09:41.487 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-17 13:09:47.819 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-17 13:09:54.100 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-17 13:10:00.474 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-17 13:10:03.037 [main] Mainclass - logout successful
+[INFO ] 2023-08-17 13:10:41.419 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-17 13:10:41.602 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-17 13:10:48.140 [main] Mainclass - Login successful
+[INFO ] 2023-08-17 13:10:51.461 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-17 13:10:54.669 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-17 13:10:57.880 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-17 13:11:01.114 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-17 13:11:07.390 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-17 13:11:13.648 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-17 13:11:19.906 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-17 13:11:26.273 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-17 13:11:28.017 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 12:17:14.077 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:17:14.170 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:18:27.730 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:18:27.829 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:19:49.531 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:19:49.621 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:19:52.729 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 12:22:59.983 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:23:00.079 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:23:03.158 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 12:23:03.241 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 12:25:17.489 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:25:17.577 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:25:20.655 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 12:25:23.838 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 12:25:29.950 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 12:25:36.157 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 12:25:42.286 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 12:25:48.448 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 12:25:48.532 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 12:31:58.957 [main] Mainclasscpoy - User name passed successfully
+[INFO ] 2023-08-25 12:31:59.059 [main] Mainclasscpoy - Password passed successfully
+[INFO ] 2023-08-25 12:32:02.146 [main] Mainclasscpoy - Login successful
+[INFO ] 2023-08-25 12:33:36.173 [main] Mainclasscpoy - User name passed successfully
+[INFO ] 2023-08-25 12:33:36.269 [main] Mainclasscpoy - Password passed successfully
+[INFO ] 2023-08-25 12:33:39.356 [main] Mainclasscpoy - Login successful
+[INFO ] 2023-08-25 12:41:40.578 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:41:40.686 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:41:43.768 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 12:41:46.953 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 12:41:53.089 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 12:41:59.357 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 12:42:05.496 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 12:42:11.659 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 12:42:11.744 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 12:48:09.919 [main] Mainclasscpoy - User name passed successfully
+[INFO ] 2023-08-25 12:48:10.019 [main] Mainclasscpoy - Password passed successfully
+[INFO ] 2023-08-25 12:48:13.095 [main] Mainclasscpoy - Login successful
+[INFO ] 2023-08-25 12:49:44.967 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 12:49:45.079 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 12:49:48.179 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 12:49:51.353 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 12:49:57.515 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 12:50:03.636 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 12:50:09.761 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 12:50:15.907 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 12:50:15.988 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 13:26:13.522 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 13:26:13.616 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 13:26:16.686 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 13:26:20.090 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 13:26:26.222 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 13:26:32.500 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 13:26:38.756 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 13:26:44.921 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 13:26:45.048 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 13:32:04.861 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 13:32:04.978 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 13:32:08.065 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 13:32:08.216 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 13:34:00.538 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 13:34:00.637 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 13:34:03.727 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 19:21:20.157 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 19:21:20.320 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 19:21:23.453 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 19:30:59.412 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 19:30:59.564 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 19:31:02.671 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 19:31:05.809 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 19:31:06.036 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 19:35:29.816 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 19:35:29.967 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 19:35:33.091 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 19:35:36.371 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 19:35:36.604 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 19:52:37.310 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 19:52:37.461 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 19:52:40.588 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 19:55:17.113 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 19:55:17.262 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 19:55:20.367 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 19:55:23.629 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 19:55:26.771 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 19:55:26.959 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 19:59:01.639 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 19:59:01.784 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 19:59:04.901 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:00:56.940 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:00:57.085 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:01:00.204 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:01:03.363 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 20:01:06.534 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 20:01:09.673 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 20:01:09.848 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:05:07.202 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:05:07.346 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:05:10.459 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:05:13.619 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 20:05:16.779 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 20:05:19.942 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 20:05:23.072 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 20:05:23.284 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:07:24.527 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:07:24.663 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:07:27.773 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:07:30.968 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 20:07:34.098 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 20:07:37.222 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 20:07:40.352 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 20:07:43.524 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-25 20:07:43.645 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-25 20:07:43.763 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:08:07.219 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:08:07.362 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:08:10.478 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:08:13.626 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 20:08:16.759 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 20:08:19.909 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 20:08:23.024 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 20:08:26.161 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-25 20:08:26.252 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-25 20:08:26.369 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:13:34.577 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:13:34.770 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:13:37.899 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:13:38.081 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:19:58.115 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:19:58.258 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:20:01.379 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:20:04.563 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-25 20:20:07.746 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-25 20:20:10.868 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-25 20:20:13.971 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-25 20:20:17.107 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-25 20:20:20.224 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-25 20:20:20.370 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:25:51.246 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:25:51.393 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:25:54.500 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:29:38.916 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:29:39.053 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:29:42.154 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:29:45.310 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-25 20:29:45.528 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:36:18.286 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:36:18.382 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:36:21.438 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:36:24.611 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-25 20:36:27.695 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-25 20:36:30.776 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-25 20:36:33.833 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-25 20:36:36.906 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-25 20:36:39.959 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-25 20:36:40.025 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:39:40.796 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:39:40.874 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:39:43.934 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:39:47.246 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 20:39:53.409 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 20:39:59.507 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 20:40:05.637 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 20:40:11.810 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 20:40:11.899 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 20:58:18.761 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:58:18.844 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:58:21.903 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:59:49.332 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 20:59:49.418 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 20:59:52.475 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 20:59:55.551 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 20:59:58.659 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 21:00:01.784 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 21:00:04.868 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 21:00:07.927 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-25 21:00:07.986 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-25 21:00:08.068 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 21:01:59.403 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 21:01:59.483 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 21:02:02.538 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 21:02:05.694 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 21:02:08.859 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 21:02:12.020 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 21:02:15.097 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 21:02:18.171 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-25 21:02:18.222 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-25 21:02:21.304 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-25 21:02:24.375 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-25 21:02:27.459 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-25 21:02:30.522 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-25 21:02:33.603 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-25 21:02:36.667 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-25 21:02:39.735 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-25 21:02:42.818 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-25 21:02:45.895 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-25 21:02:48.968 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-25 21:02:52.065 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-25 21:02:55.125 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-25 21:02:58.235 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 21:03:04.390 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 21:03:10.523 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 21:03:16.669 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 21:03:22.836 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 21:03:22.914 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 21:05:28.029 [main] Mainclasscpoy - User name passed successfully
+[INFO ] 2023-08-25 21:05:28.096 [main] Mainclasscpoy - Password passed successfully
+[INFO ] 2023-08-25 21:05:31.150 [main] Mainclasscpoy - Login successful
+[INFO ] 2023-08-25 21:05:34.200 [main] Mainclasscpoy - clicked on new 
+[INFO ] 2023-08-25 21:05:37.316 [main] Mainclasscpoy - click action on new-retail execution successful
+[INFO ] 2023-08-25 21:05:40.409 [main] Mainclasscpoy - click action on new-customer demand successful
+[INFO ] 2023-08-25 21:05:43.469 [main] Mainclasscpoy - click action on new-customer experiance successful
+[INFO ] 2023-08-25 21:05:46.539 [main] Mainclasscpoy - click action on new-loss prevention successful
+[INFO ] 2023-08-25 21:05:46.596 [main] Mainclasscpoy - click action on new-work place safety successful
+[INFO ] 2023-08-25 21:05:49.672 [main] Mainclasscpoy - clicked on completed
+[INFO ] 2023-08-25 21:05:52.753 [main] Mainclasscpoy - click action on completed-retail execution successful
+[INFO ] 2023-08-25 21:05:55.836 [main] Mainclasscpoy - click action on completed-customer demand successful
+[INFO ] 2023-08-25 21:05:58.894 [main] Mainclasscpoy - click action on completed-customer experiance successful
+[INFO ] 2023-08-25 21:06:01.966 [main] Mainclasscpoy - click action on completed-loss prevention successful
+[INFO ] 2023-08-25 21:06:05.013 [main] Mainclasscpoy - click action on completed-work place safety successful
+[INFO ] 2023-08-25 21:06:08.090 [main] Mainclasscpoy - clicked on blocked
+[INFO ] 2023-08-25 21:06:11.165 [main] Mainclasscpoy - click action on blocked-retail execution successful
+[INFO ] 2023-08-25 21:06:14.242 [main] Mainclasscpoy - click action on blocked-customer demand successful
+[INFO ] 2023-08-25 21:06:17.308 [main] Mainclasscpoy - click action on blocked-customer experiance successful
+[INFO ] 2023-08-25 21:06:20.381 [main] Mainclasscpoy - click action on blocked-loss prevention successful
+[INFO ] 2023-08-25 21:06:23.434 [main] Mainclasscpoy - click action on blocked-work place safety successful
+[INFO ] 2023-08-25 21:06:26.546 [main] Mainclasscpoy - clicked on store insights sub task
+[INFO ] 2023-08-25 21:06:32.655 [main] Mainclasscpoy - Country selected successfully
+[INFO ] 2023-08-25 21:06:38.785 [main] Mainclasscpoy - State selected successfully
+[INFO ] 2023-08-25 21:06:44.917 [main] Mainclasscpoy - Zip-code selected successfully
+[INFO ] 2023-08-25 21:06:51.094 [main] Mainclasscpoy - Store selected successfully
+[INFO ] 2023-08-25 22:44:58.227 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 22:44:58.377 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 22:45:01.473 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 22:45:04.822 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 22:45:07.999 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 22:45:11.151 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 22:45:14.283 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 22:45:17.451 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-25 22:45:17.584 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-25 22:45:20.748 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-25 22:45:23.890 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-25 22:45:27.032 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-25 22:45:30.154 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-25 22:45:33.320 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-25 22:45:36.464 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-25 22:45:39.615 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-25 22:45:42.786 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-25 22:45:45.983 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-25 22:45:49.100 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-25 22:45:52.256 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-25 22:45:55.391 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-25 22:45:58.597 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 22:46:04.835 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 22:46:11.150 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 22:46:17.378 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 22:46:23.720 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 22:46:23.898 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 23:00:08.487 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 23:00:08.636 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 23:00:11.738 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 23:00:21.683 [main] Mainclass - logout successful
+[INFO ] 2023-08-25 23:01:00.193 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-25 23:01:00.333 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-25 23:01:03.440 [main] Mainclass - Login successful
+[INFO ] 2023-08-25 23:01:06.651 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-25 23:01:09.784 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-25 23:01:12.926 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-25 23:01:16.018 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-25 23:01:19.165 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-25 23:01:19.298 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-25 23:01:22.468 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-25 23:01:25.874 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-25 23:01:29.006 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-25 23:01:32.158 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-25 23:01:35.357 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-25 23:01:38.493 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-25 23:01:41.652 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-25 23:01:44.798 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-25 23:01:47.945 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-25 23:01:51.069 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-25 23:01:54.216 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-25 23:01:57.325 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-25 23:02:00.511 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-25 23:02:06.894 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-25 23:02:13.217 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-25 23:02:19.506 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-25 23:02:25.859 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-25 23:02:26.041 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 00:22:09.217 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:22:09.311 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:22:12.390 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 00:22:14.607 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:22:14.686 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:22:17.721 [main] Mainclass - Login1 successful
+[INFO ] 2023-08-26 00:24:30.054 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:24:30.125 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:24:33.190 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 00:24:36.296 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-26 00:24:42.449 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-26 00:24:48.598 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-26 00:24:54.739 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-26 00:25:00.921 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-26 00:25:03.071 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 00:27:54.596 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:27:54.680 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:27:57.748 [main] Mainclass - Login1 successful
+[INFO ] 2023-08-26 00:27:57.806 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 00:29:36.893 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:29:36.968 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:29:40.021 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 00:29:42.246 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 00:39:09.686 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:39:09.779 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:39:12.841 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 00:39:12.947 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:39:13.024 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:39:16.061 [main] Mainclass - Login1 successful
+[INFO ] 2023-08-26 00:48:09.474 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 00:48:09.546 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 00:48:12.608 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 00:48:15.674 [main] Mainclass - clicked on new 
+[INFO ] 2023-08-26 00:48:18.777 [main] Mainclass - click action on new-retail execution successful
+[INFO ] 2023-08-26 00:48:21.874 [main] Mainclass - click action on new-customer demand successful
+[INFO ] 2023-08-26 00:48:24.943 [main] Mainclass - click action on new-customer experiance successful
+[INFO ] 2023-08-26 00:48:28.014 [main] Mainclass - click action on new-loss prevention successful
+[INFO ] 2023-08-26 00:48:28.065 [main] Mainclass - click action on new-work place safety successful
+[INFO ] 2023-08-26 00:48:31.149 [main] Mainclass - clicked on completed
+[INFO ] 2023-08-26 00:48:34.218 [main] Mainclass - click action on completed-retail execution successful
+[INFO ] 2023-08-26 00:48:37.301 [main] Mainclass - click action on completed-customer demand successful
+[INFO ] 2023-08-26 00:48:40.355 [main] Mainclass - click action on completed-customer experiance successful
+[INFO ] 2023-08-26 00:48:43.420 [main] Mainclass - click action on completed-loss prevention successful
+[INFO ] 2023-08-26 00:48:46.489 [main] Mainclass - click action on completed-work place safety successful
+[INFO ] 2023-08-26 00:48:49.556 [main] Mainclass - clicked on blocked
+[INFO ] 2023-08-26 00:48:52.646 [main] Mainclass - click action on blocked-retail execution successful
+[INFO ] 2023-08-26 00:48:55.764 [main] Mainclass - click action on blocked-customer demand successful
+[INFO ] 2023-08-26 00:48:58.819 [main] Mainclass - click action on blocked-customer experiance successful
+[INFO ] 2023-08-26 00:49:01.894 [main] Mainclass - click action on blocked-loss prevention successful
+[INFO ] 2023-08-26 00:49:04.964 [main] Mainclass - click action on blocked-work place safety successful
+[INFO ] 2023-08-26 00:49:08.076 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-26 00:49:14.220 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-26 00:49:20.378 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-26 00:49:26.540 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-26 00:49:32.704 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-26 00:49:33.878 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 01:04:09.320 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 01:04:09.387 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 01:04:12.444 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 01:04:12.566 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 01:04:12.634 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 01:04:15.672 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 01:05:56.461 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 01:05:56.541 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 01:05:59.594 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 01:06:02.776 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-26 01:06:08.917 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-26 01:06:15.042 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-26 01:06:21.168 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-26 01:06:27.338 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-26 01:06:27.420 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 01:07:24.775 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 01:07:24.867 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 01:07:27.931 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 01:07:34.133 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 01:09:10.522 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 01:09:10.609 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 01:09:13.671 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 01:09:19.886 [main] Mainclass - logout successful
+[INFO ] 2023-08-26 13:12:17.303 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 13:12:17.447 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 13:12:20.565 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 13:13:15.730 [main] Mainclass - User name passed successfully
+[INFO ] 2023-08-26 13:13:15.852 [main] Mainclass - Password passed successfully
+[INFO ] 2023-08-26 13:13:18.968 [main] Mainclass - Login successful
+[INFO ] 2023-08-26 13:13:22.175 [main] Mainclass - clicked on store insights sub task
+[INFO ] 2023-08-26 13:13:28.461 [main] Mainclass - Country selected successfully
+[INFO ] 2023-08-26 13:13:34.671 [main] Mainclass - State selected successfully
+[INFO ] 2023-08-26 13:13:40.892 [main] Mainclass - Zip-code selected successfully
+[INFO ] 2023-08-26 13:13:47.163 [main] Mainclass - Store selected successfully
+[INFO ] 2023-08-26 13:13:47.321 [main] Mainclass - logout successful

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="Pitaya_Org_admin.Mainclass">
+        <methods>
+          <include name="Use_case"/>
+          <include name="login"/>
+          <include name="store"/>
+          <include name="createcamera"/>
+          <include name="set_store"/>
+          <include name="User"/>
+          <include name="logout"/>
+          <include name="pitaya"/>
+        </methods>
+      </class> <!-- Pitaya_Org_admin.Mainclass -->
+      <class name="Pitaya_CS_admin.Mainclass">
+        <methods>
+          <include name="pitaya"/>
+          <include name="add_store"/>
+        </methods>
+      </class> <!-- Pitaya_CS_admin.Mainclass -->
+      <class name="Pitaya_Store_user.Mainclass">
+        <methods>
+          <include name="completesubtask"/>
+          <include name="login"/>
+          <include name="newtasks"/>
+          <include name="storeinsights"/>
+          <include name="blockedsubtask"/>
+          <include name="pitaya"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Pitaya_Store_user.Mainclass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
